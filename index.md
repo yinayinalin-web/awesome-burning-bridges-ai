@@ -61,6 +61,7 @@ A longer side-by-side on input, length, shape, sound and free options: [Burning 
 - Even light, no sunglasses or caps; the eyes carry the whole bit.
 - No beauty filter, and a recent photo.
 - Pets work too: one animal, eye level, sharp face. More in this [guide to the Burning Bridges trend with your pet](https://burningbridgestrend.org/burning-bridges-ai-pet).
+- A one-page version for pets: the [pet photo checklist for the Burning Bridges AI trend](https://sites.google.com/view/burning-bridges-pet-checklist).
 
 ## Adding the song and the AI label
 
